@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167372085731",
+    "project_id": "todo-project-pemmob",
+    "storage_bucket": "todo-project-pemmob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167372085731:android:c6913fdfa7a9bfe100e8d6",
+        "android_client_info": {
+          "package_name": "com.horizon.todo_riverpod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_u-ByTYCN1tJGZG78eVIfnwrL5g5swl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
